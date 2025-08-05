@@ -3562,7 +3562,7 @@ If you notice discrepancies between different sources showing inode limits, this
 
 **Verifying Actual Limits**
 
-To check what limits are actually enforced, use these commands:
+To check what limits are actually enforced, please use these commands:
 
 <div class="notranslate">
 

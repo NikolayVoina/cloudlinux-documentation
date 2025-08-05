@@ -389,7 +389,7 @@ End users can monitor their inodes usage through cPanel only (not available on P
 
 ![](/images/cloudlinuxos/limits/inodescpanel.webp)
 
-End user can also see the usage inside resource usage menu.
+End user can also see the usage inside resource usage menu .
 
 ::: warning Important Note about Synchronization
 When using inode limits with cPanel, please note that changes made through LVE Manager may not be reflected in cPanel user configuration files (<span class="notranslate">`/var/cpanel/users/*`</span>). This is a known limitation where the actual quota enforcement works correctly, but the user files may show outdated limit values. See [cl-quota Known Limitations](/cloudlinuxos/command-line_tools/#known-limitations) and [Troubleshooting](/cloudlinuxos/command-line_tools/#troubleshooting) for more details.
